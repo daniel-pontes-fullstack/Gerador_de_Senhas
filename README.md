@@ -37,8 +37,8 @@ Você pode visualizar o projeto online clicando aqui: [acessar projeto online](h
 
 ## Abrir e rodar o projeto
 
-Após baixar o projeto, você pode descompactar em qualquer local de sua preferência, em seguida você pode abrir o arquivo (index.php). 
-OBS: Este projeto precisa do php emulado para ser executado em sua máquina, caso não tenha visite a página do projeto online.
+Após baixar o projeto, você pode descompactar em qualquer local de sua preferência, em seguida você pode abrir o arquivo (index.php). <br>
+<b>OBS:</b> Este projeto precisa do php emulado para ser executado em sua máquina, caso não tenha visite a página do projeto online.
 
 ## :hammer: Funcionalidades do projeto:
 
